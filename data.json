@@ -1,27 +1,37 @@
 [
     {
-        "category": "PYQ",
-        "semester": "1",
+        "category": "Entrance Exams",
+        "subCategory": "2023",
+        "subject": "Maths Paper",
+        "years": "2023",
+        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
+    },
+    {
+        "category": "Entrance Exams",
+        "subCategory": "2022",
+        "subject": "Physics Paper",
+        "years": "2022",
+        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
+    },
+    {
+        "category": "B.Tech Notes",
+        "subCategory": "Module 1",
         "subject": "Data Structures",
-        "years": "2023, 2024, 2025",
+        "years": "Complete Unit",
         "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
     },
     {
-        "category": "Notes",
-        "semester": "1",
-        "subject": "Physics Complete Notes",
-        "years": "Module 1 to 5",
+        "category": "B.Tech Notes",
+        "subCategory": "Module 2",
+        "subject": "Linked Lists",
+        "years": "Complete Unit",
         "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
     },
     {
-        "category": "Lab Manual",
-        "semester": "2",
-        "subject": "Python Lab",
-        "years": "All Experiments",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    },
-     {
-        "category": "Placement Reports",
+        "category": "Syllabus",
+        "subCategory": "Sem 1",
+        "subject": "All Subjects",
+        "years": "2024-25",
         "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
     }
 ]
