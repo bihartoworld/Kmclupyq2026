@@ -1,32 +1,23 @@
 [
     {
+        "category": "PYQ",
         "semester": "1",
         "subject": "Data Structures",
         "years": "2023, 2024, 2025",
         "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
     },
     {
+        "category": "Notes",
         "semester": "1",
-        "subject": "Python Programming",
-        "years": "2023, 2024",
+        "subject": "Physics Complete Notes",
+        "years": "Module 1 to 5",
         "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
     },
     {
+        "category": "Lab Manual",
         "semester": "2",
-        "subject": "Mathematics II",
-        "years": "2024, 2025",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    },
-    {
-        "semester": "3",
-        "subject": "Advanced Data Algorithm",
-        "years": "2023, 2024",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    },
-    {
-        "semester": "5",
-        "subject": "C LANGUAGE",
-        "years": "2023, 2024",
+        "subject": "Python Lab",
+        "years": "All Experiments",
         "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
     }
 ]
