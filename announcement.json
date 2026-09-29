@@ -1,0 +1,19 @@
+{
+    "_CONFIG_": {
+        "show_announcement": true,
+        "announcement_text": "🚨 Midsem Time Table is out! Check your exam dates below.",
+        "action_type": "pdf",
+        "action_link": "https://raw.githubusercontent.com/.../timetable.pdf"
+    }
+}
+
+
+
+{
+    "_CONFIG_": {
+        "show_announcement": true,
+        "announcement_text": "🎉 Happy Diwali! May this festival of lights bring success to your studies.",
+        "action_type": "image",
+        "action_link": "https://raw.githubusercontent.com/.../diwali.jpg"
+    }
+}
