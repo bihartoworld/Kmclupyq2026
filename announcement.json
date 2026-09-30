@@ -1,12 +1,12 @@
 {
-    "active_announcement": "diwali",
+    "active_announcement": "midsem",
     
     "presets": {
         "midsem": {
             "show_announcement": true,
             "announcement_text": "🚨 Midsem Time Table is out! Check your exam dates below.",
             "action_type": "pdf",
-            "action_link": "https://raw.githubusercontent.com/.../timetable.pdf"
+            "action_link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
         },
         "diwali": {
             "show_announcement": true,
