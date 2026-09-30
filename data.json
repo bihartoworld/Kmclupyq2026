@@ -1,44 +1,18 @@
 [
-    {
-        "category": "Entrance Exams",
-        "subCategory": "2023",
-        "subject": "Maths Paper",
-        "years": "2023",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    },
-    {
-        "category": "Entrance Exams",
-        "subCategory": "2022",
-        "subject": "Physics Paper",
-        "years": "2022",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    },
-    {
-        "category": "B.Tech Notes",
-        "subCategory": "Module 1",
-        "subject": "Data Structures",
-        "years": "Complete Unit",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    },
-    {
-        "category": "B.Tech Notes",
-        "subCategory": "Module 2",
-        "subject": "Linked Lists",
-        "years": "Complete Unit",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    },
-    {
-        "category": "Syllabus",
-        "subCategory": "Sem 1",
-        "subject": "All Subjects",
-        "years": "2024-25",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    },
-    {
-        "category": "Placement Records",
-        "subCategory": "2025",
-        "subject": "CSE AI ML",
-        "years": "2024-25",
-        "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-    }
+  {
+    "category": "Entrance Exams",
+    "emoji": "🎓", 
+    "subCategory": "2023",
+    "subject": "Maths Paper",
+    "years": "2023",
+    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
+  },
+  {
+    "category": "Syllabus",
+    "emoji": "📋",
+    "subCategory": "Sem 1",
+    "subject": "All Subjects",
+    "years": "2024-25",
+    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
+  }
 ]
