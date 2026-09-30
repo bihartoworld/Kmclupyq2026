@@ -1,6 +1,24 @@
 {
-    "show_announcement": true,
-    "announcement_text": "Happy Diwali Guys",
-    "action_type": "image",
-    "action_link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/unnamed.png"
+    "active_announcement": "diwali",
+    
+    "presets": {
+        "midsem": {
+            "show_announcement": true,
+            "announcement_text": "🚨 Midsem Time Table is out! Check your exam dates below.",
+            "action_type": "pdf",
+            "action_link": "https://raw.githubusercontent.com/.../timetable.pdf"
+        },
+        "diwali": {
+            "show_announcement": true,
+            "announcement_text": "🎉 Happy Diwali! May this festival of lights bring success to your studies.",
+            "action_type": "image",
+            "action_link": "https://raw.githubusercontent.com/.../diwali.jpg"
+        },
+        "off": {
+            "show_announcement": false,
+            "announcement_text": "",
+            "action_type": "none",
+            "action_link": ""
+        }
+    }
 }
