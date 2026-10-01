@@ -1,22 +1,16 @@
 {
   "active_announcement": "diwali_offer", 
-  
   "presets": {
     "diwali_offer": {
       "show_announcement": true,
       "announcement_text": "🎉 Happy Diwali! Get 50% off on all packs today!",
-      
       "action_type": "none", 
       "action_link": "",
-      
       "urgent_offer": true, 
       "offer_title": "Diwali Dhamaka! 🧨",
-      "offer_message": "Buy the VIP Mega Pack for just ₹29 instead of ₹49. Offer ends tonight!"
+      "offer_message": "Buy the VIP Mega Pack for just ₹29 instead of ₹49. Offer ends tonight!",
+      "mega_pack_price": "29" 
     }
   },
-
-  "user_messages": {
-    "9876543210": "Bhai tera payment mil gaya hai, VIP access activate ho gaya hai!",
-    "1122334455": "Tumhari request par notes upload kar diye gaye hain."
-  }
+  "user_messages": {}
 }
