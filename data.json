@@ -1,74 +1,20 @@
 [
   {
     "category": "Entrance Exams",
-    "emoji": "🎓", 
-    "subCategory": "2023",
-    "subject": "Maths Paper",
-    "years": "2023",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
+    "subCategory": "B.Tech",
+    "subject": "Maths 2024 Paper",
+    "years": "2024",
+    "link": "https://link-to-pdf.com",
+    "emoji": "🎓",
+    "price": "9" 
   },
   {
     "category": "Syllabus",
+    "subCategory": "Semester 1",
+    "subject": "CS Syllabus",
+    "years": "Latest",
+    "link": "https://link-to-pdf.com",
     "emoji": "📋",
-    "subCategory": "Sem 1",
-    "subject": "All Subjects",
-    "years": "2024-25",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-  },
-  {
-    "category": "Placement Reports",
-    "emoji": "📊",
-    "subCategory": "CSE AI DS",
-    "subject": "2026",
-    "years": "2024-25",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-  },
-  {
-    "category": "Mid Semester Schedule",
-    "emoji": "🖨️",
-    "subCategory": "CSE AI DS",
-    "subject": "2026",
-    "years": "2026-2027",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-  },
-  {
-    "category": "Electronics Lab Manual",
-    "emoji": "⚡",
-    "subCategory": "CSE AI DS",
-    "subject": "2026",
-    "years": "2024-25",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-  },
-  {
-    "category": "Python Programming",
-    "emoji": "🐍",
-    "subCategory": "CSE AI DS",
-    "subject": "2026",
-    "years": "2024-25",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-  },
-  {
-    "category": "C Programming",
-    "emoji": "🆑",
-    "subCategory": "CSE AI DS",
-    "subject": "2026",
-    "years": "2024-25",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-  },
-  {
-    "category": "Top 50 PPS",
-    "emoji": "📜",
-    "subCategory": "CSE AI DS",
-    "subject": "2026",
-    "years": "2024-25",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-  },
-  {
-    "category": "App Development",
-    "emoji": "📱",
-    "subCategory": "CSE AI DS",
-    "subject": "2026",
-    "years": "2024-25",
-    "link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
+    "price": "free" 
   }
 ]
