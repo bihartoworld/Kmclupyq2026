@@ -10,9 +10,9 @@
         },
         "diwali": {
             "show_announcement": true,
-            "announcement_text": "🎉 Happy Diwali! May this festival of lights bring success to your studies",
-            "action_type": "image",
-            "action_link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/unnamed.png"
+            "announcement_text": "🎉 Holiday on 2 October",
+            "action_type": "none",
+            "action_link": ""
         },
         "off": {
             "show_announcement": false,
