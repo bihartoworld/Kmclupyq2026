@@ -1,24 +1,22 @@
 {
-    "active_announcement": "diwali",
-    
-    "presets": {
-        "midsem": {
-            "show_announcement": true,
-            "announcement_text": "🚨 Midsem Time Table is out! Check your exam dates below.",
-            "action_type": "pdf",
-            "action_link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf"
-        },
-        "diwali": {
-            "show_announcement": true,
-            "announcement_text": "🎉 Holiday on 2 October",
-            "action_type": "none",
-            "action_link": ""
-        },
-        "off": {
-            "show_announcement": false,
-            "announcement_text": "",
-            "action_type": "none",
-            "action_link": ""
-        }
+  "active_announcement": "diwali_offer", 
+  
+  "presets": {
+    "diwali_offer": {
+      "show_announcement": true,
+      "announcement_text": "🎉 Happy Diwali! Get 50% off on all packs today!",
+      
+      "action_type": "none", 
+      "action_link": "",
+      
+      "urgent_offer": true, 
+      "offer_title": "Diwali Dhamaka! 🧨",
+      "offer_message": "Buy the VIP Mega Pack for just ₹29 instead of ₹49. Offer ends tonight!"
     }
+  },
+
+  "user_messages": {
+    "9876543210": "Bhai tera payment mil gaya hai, VIP access activate ho gaya hai!",
+    "1122334455": "Tumhari request par notes upload kar diye gaye hain."
+  }
 }
