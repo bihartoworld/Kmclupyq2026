@@ -1,16 +1,38 @@
 {
-  "active_announcement": "diwali_offer", 
+  "active_announcement": "diwali_offer",
   "presets": {
     "diwali_offer": {
       "show_announcement": true,
       "announcement_text": "🎉 Happy Diwali! Get 50% off on all packs today!",
-      "action_type": "none", 
-      "action_link": "",
-      "urgent_offer": true, 
-      "offer_title": "Diwali Dhamaka! 🧨",
+      "action_type": "image",
+      "action_link": "https://link-to-your-diwali-banner.png",
+      
+      "urgent_offer": true,
+      "offer_emoji": "🧨",
+      "offer_image": "", 
+      "offer_title": "Diwali Dhamaka!",
       "offer_message": "Buy the VIP Mega Pack for just ₹29 instead of ₹49. Offer ends tonight!",
-      "mega_pack_price": "29" 
+      "mega_pack_price": "29"
+    },
+    "normal_days": {
+      "show_announcement": false,
+      "announcement_text": "",
+      "action_type": "none",
+      "action_link": "",
+      "urgent_offer": false,
+      "offer_emoji": "",
+      "offer_image": "",
+      "offer_title": "",
+      "offer_message": "",
+      "mega_pack_price": "49"
     }
   },
-  "user_messages": {}
+  "user_messages": {
+    "9876543210": {
+      "text": "Bhai tera premium activate ho gaya hai! Ye rahi teri receipt.",
+      "emoji": "🎉",
+      "image": "https://link-to-receipt-image.jpg"
+    },
+    "9988776655": "Tera pack kal expire ho jayega bhai." 
+  }
 }
