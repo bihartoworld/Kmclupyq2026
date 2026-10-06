@@ -11,6 +11,26 @@
     "allowDownload": "true"
   },
   {
+  "category": "Premium Notes",
+  "subCategory": "AI & DS",
+  "subCategory_2": "Semester 2",
+  "subject": "Machine Learning Notes",
+  "years": "2026",
+  "price": "49",
+  "link": "https://drive.google.com/file/d/MAIN_FILE_ID/view",
+  "previewLink": "https://drive.google.com/file/d/SAMPLE_FILE_ID/view",
+  "allowDownload": "true"
+},
+  {
+  "category": "Video Lectures",
+  "subCategory": "B.Tech CSE",
+  "subCategory_2": "Semester 1",
+  "subject": "Learn Python in 1 Video",
+  "years": "2026",
+  "youtubeLink": "https://www.youtube.com/watch?v=xyz123",
+  "description": "Is video me basic se advanced tak sab cover hai."
+},
+  {
     "category": "Syllabus",
     "subCategory": "Semester 1",
     "subCategory_2": "",
