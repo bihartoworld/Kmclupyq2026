@@ -1,5 +1,22 @@
 {
   "availability": "Available Monday to Saturday (10 AM - 6 PM)",
   "email": "support@kmcluvault.com",
-  "phone": ""
+  "phone": "",
+  "social_media": [
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/biharicoders",
+      "icon": "📸"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/kmcluvault",
+      "icon": "✈️"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/bihartoworld",
+      "icon": "💻"
+    }
+  ]
 }
