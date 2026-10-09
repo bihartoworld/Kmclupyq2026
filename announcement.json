@@ -1,15 +1,18 @@
 {
   "active_announcement": "diwali_offer",
+  "promo_codes": {
+    "DIWALI50": { "type": "percent", "value": 50 },
+    "FLAT20": { "type": "flat", "value": 20 }
+  },
   "presets": {
     "diwali_offer": {
       "show_announcement": true,
       "announcement_text": "🎉 Happy Diwali! Get 50% off on all packs today!",
       "action_type": "image",
       "action_link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/unnamed.png",
-      
       "urgent_offer": false,
       "offer_emoji": "🧨",
-      "offer_image": "", 
+      "offer_image": "",
       "offer_title": "Diwali Dhamaka!",
       "offer_message": "Buy the VIP Mega Pack for just ₹29 instead of ₹49. Offer ends tonight!",
       "mega_pack_price": "99999",
@@ -25,15 +28,8 @@
       "offer_image": "",
       "offer_title": "",
       "offer_message": "",
-      "mega_pack_price": "6999"
+      "mega_pack_price": "6999",
+      "show_mega_pack": true
     }
-  },
-  "user_messages": {
-    "9876543210": {
-      "text": "Bhai Enjoy Karo !.",
-      "emoji": "🎉",
-      "image": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/unnamed.png"
-    },
-    "ibangalore746@gmail.com": "Tera pack kal expire ho jayega bhai." 
   }
 }
