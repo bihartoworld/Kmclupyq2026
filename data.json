@@ -33,7 +33,7 @@
   },
   {
     "category": "Entrance Exams",
-    "batchPrice": "499",
+    "batchPrice": "",
     "emoji": "🎓",
     "subCategory": "B.Tech",
     "subCategory_2": "2024 Papers",
@@ -41,7 +41,7 @@
     "subCategory_4": "",
     "subCategory_5": "",
     "subject": "Maths 2024 Paper",
-    "description": "2024 Entrance Exam ka complete solved question paper.",
+    "description": "Is batch ka batchPrice khali hai, isliye yeh pura batch 100% FREE hai!",
     "years": "2024",
     "pdfLink": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf",
     "status": "lock",
