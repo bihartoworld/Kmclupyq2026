@@ -31,6 +31,7 @@
     "subCategoryThumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",
     "subCategoryPrice": "199",
     "subCategoryBadge": "1.0",
+     "status": "false",
     "subCategory_2": "Module 1: Layouts",
     "subCategory_2_Thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
     "subCategory_2_Price": "2026",
@@ -41,7 +42,7 @@
     "description": "Is lecture me C programming aur Android UI ke basics cover kiye gaye hain. Niche attached PDF notes zaroor padhein.",
     "videoLink": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/MATERIALS/5_6066742447784861659.mp4",
     "pdfLink": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf",
-    "status": "free",
+    "status": "false",
     "allowDownload": "true"
   },
   {
