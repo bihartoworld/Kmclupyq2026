@@ -1,6 +1,6 @@
 [
   {
-    "isCouponConfig": "true",
+    "isCouponConfig": "false",
     "activeCoupons": [
       {
         "code": "DIWALI50",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "isComboOffer": "true",
+    "isComboOffer": "false",
     "comboName": "Android Pro Combo (Batch 1 + Batch 2)",
     "comboPrice": "449",
     "originalComboPrice": "598",
