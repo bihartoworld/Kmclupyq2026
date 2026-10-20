@@ -15,7 +15,7 @@
     ]
   },
   {
-    "isComboOffer": true,
+    "isComboOffer": false,
     "comboName": "All-in-One Coding + BCA Combo",
     "comboPrice": 699,
     "originalComboPrice": 1299,
@@ -41,9 +41,9 @@
     "years": "Duration: 45 Mins",
     "description": "Is lecture me hum Android Studio install karna aur pehla project banana seekhenge.",
     "status": "free",
-    "videoLink": "https://drive.google.com/file/d/YOUR_DRIVE_VIDEO_ID/view",
+    "videoLink": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/MATERIALS/5_6066742447784861659.mp4",
     "youtubeLink": "",
-    "pdfLink": "https://drive.google.com/file/d/YOUR_DRIVE_PDF_ID/view",
+    "pdfLink": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf",
     "previewLink": "",
     "allowDownload": true
   },
