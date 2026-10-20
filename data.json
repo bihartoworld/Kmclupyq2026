@@ -84,5 +84,25 @@
     "status": "locked",
     "pdfLink": "https://drive.google.com/file/d/YOUR_NOTES_PDF_ID/view",
     "allowDownload": true
+  },
+{
+    "category": "Android Studio",
+    "batchPrice": "NEW",
+    "emoji": "📱",
+    "subCategory": "Batch 1: Basic UI Design",
+    "subCategoryThumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",
+    "subCategoryPrice": "199",
+    "subCategory_2": "Module 1: Layouts",
+    "subCategory_2_Thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
+    "subCategory_2_Price": "2026",
+    "subCategory_3": "",
+    "subCategory_4": "",
+    "subCategory_5": "",
+    "subject": "Lec 1: Basics of C & Android Setup",
+    "description": "Is lecture me C programming aur Android UI ke basics cover kiye gaye hain. Niche attached PDF notes zaroor padhein.",
+    "videoLink": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/MATERIALS/5_6066742447784861659.mp4",
+    "pdfLink": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/1st%20sem%20syllabus.pdf",
+    "status": "lock",
+    "allowDownload": "true"
   }
 ]
