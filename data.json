@@ -19,7 +19,6 @@
     "comboName": "Android Pro Combo (Batch 1 + Batch 2)",
     "comboPrice": "449",
     "originalComboPrice": "598",
-    "allowReferral": true,
     "comboThumbnail": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=600&q=80",
     "includedBatches": "Batch 1: Basic UI Design, Batch 2: API & Databases",
     "description": "Batch 1 (₹199) + Batch 2 (₹399) dono ek saath lijiye aur seedhe ₹149 bachaiye!"
@@ -91,6 +90,7 @@
     "emoji": "🎓",
     "subCategory": "B.Tech",
     "subCategoryPrice": "2026",
+    "allowReferral": false,
     "subCategory_2": "2024 Papers",
     "subCategory_3": "",
     "subCategory_4": "",
@@ -105,9 +105,9 @@
   {
     "category": "Premium Notes",
     "batchPrice": "499",
-    "allowReferral": true,
     "emoji": "📘",
     "subCategory": "B.Tech CSE",
+    "allowReferral": false,
     "subCategory_2": "Semester 1",
     "subCategory_3": "",
     "subCategory_4": "",
