@@ -12,11 +12,11 @@
       "action_link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/unnamed.png",
       "urgent_offer": true,
       "offer_emoji": "🧨",
-      "offer_image": "",
+      "offer_image": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/unnamed.png",
       "offer_title": "Diwali Dhamaka!",
       "offer_message": "Buy the VIP Mega Pack for just ₹299 instead of ₹499. Offer ends tonight!",
       "mega_pack_price": "159",
-      "show_mega_pack": false
+      "show_mega_pack": true
     },
     "normal_days": {
       "show_announcement": false,
