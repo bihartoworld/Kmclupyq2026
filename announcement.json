@@ -10,11 +10,11 @@
       "announcement_text": "🎉 Happy Diwali! Get 50% off on all packs today!",
       "action_type": "image",
       "action_link": "https://raw.githubusercontent.com/bihartoworld/Kmclupyq2026/main/unnamed.png",
-      "urgent_offer": false,
+      "urgent_offer": true,
       "offer_emoji": "🧨",
       "offer_image": "",
       "offer_title": "Diwali Dhamaka!",
-      "offer_message": "Buy the VIP Mega Pack for just ₹29 instead of ₹49. Offer ends tonight!",
+      "offer_message": "Buy the VIP Mega Pack for just ₹299 instead of ₹499. Offer ends tonight!",
       "mega_pack_price": "159",
       "show_mega_pack": false
     },
